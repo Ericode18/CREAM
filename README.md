@@ -1,4 +1,4 @@
-# CREAM Client
+## CREAM Client
 
 Interactive C client that can be used to test a `cream` server.
 
